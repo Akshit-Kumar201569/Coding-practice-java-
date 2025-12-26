@@ -5,7 +5,7 @@
 
 | Platform | Problems Solved |
 |--------|----------------|
-| LeetCode | 15 |
+| LeetCode | 0 |
 
 ### Topics Covered
 - Arrays
