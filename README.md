@@ -1,12 +1,14 @@
 # Coding-practice-java-
-✔ Solve coding problems daily ✔ Track progress visually ✔ Show it publicly (for internships &amp; jobs) ✔ Stay motivated
+✔ Solve coding problems daily ✔ Track progress ✔ Stay motivated
 
 ## 📊 Coding Progress
 
 | Platform | Problems Solved |
 |--------|----------------|
-| LeetCode | 0 |
+| LeetCode | 1 |
 
 ### Topics Covered
-- Arrays
+- Arrays(1)
+- Strings(0)
+- HashMap(0)
 
