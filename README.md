@@ -6,7 +6,6 @@
 | Platform | Problems Solved |
 |--------|----------------|
 | LeetCode | 1 |
-| HackerRank | 0 |
 
 ### Topics Covered
 - Arrays(1)
