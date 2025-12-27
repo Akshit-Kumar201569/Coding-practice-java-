@@ -6,6 +6,7 @@
 | Platform | Problems Solved |
 |--------|----------------|
 | LeetCode | 1 |
+| CodeChef | 0 |
 
 ### Topics Covered
 - Arrays(1)
